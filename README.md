@@ -18,6 +18,3 @@ All data used in this project is **synthetic**.
 - DAX (basic measures)
 - Data Modeling
 
-### Dashboard Preview
-![Dashboard](dashboard.png)
-
