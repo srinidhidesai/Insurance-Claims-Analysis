@@ -1,4 +1,4 @@
-## Insurance Claims Analysis Dashboard
+### Insurance Claims Analysis Dashboard
 
 ### Objective
 Analyze insurance claims, coverage, and premium data to identify key risk patterns and business insights.
