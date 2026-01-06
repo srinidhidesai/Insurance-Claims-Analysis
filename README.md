@@ -8,6 +8,7 @@ SD Insurance Pvt. Ltd. needs to understand its policy performance, claim behavio
 # Steps Followed
 
 Step 1: Loaded insurance claims data into Power BI Desktop using a SQL Server connection.
+
 Step 2: Opened Power Query Editor and enabled Column Distribution, Column Quality, and Column Profile under the View tab.
 Step 3: Switched column profiling from Top 1000 rows to Entire Dataset for accurate data validation.
 Step 4: Verified data quality, minor null values were found in a few numeric claim-related columns.
